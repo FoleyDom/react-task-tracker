@@ -1,0 +1,35 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "test",
+      "other": "no-show",
+      "day": "monday",
+      "reminder": true
+    },
+    {
+      "text": "Test4",
+      "day": "Wednesday",
+      "reminder": true,
+      "id": 3
+    },
+    {
+      "text": "Work",
+      "day": "10/24",
+      "reminder": false,
+      "id": 4
+    },
+    {
+      "text": "chillin ",
+      "day": "monday",
+      "reminder": false,
+      "id": 5
+    },
+    {
+      "text": "yikes",
+      "day": "monday",
+      "reminder": true,
+      "id": 6
+    }
+  ]
+}
